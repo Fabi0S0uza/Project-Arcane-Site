@@ -1,8 +1,8 @@
-Projeto Arcane
-Descrição
+# Projeto Arcane
+# Descrição:
 O Projeto Arcane é uma aplicação web interativa que apresenta personagens da série Arcane. Os usuários podem clicar em diferentes botões para visualizar informações detalhadas sobre cada personagem, incluindo imagens, nomes e descrições.
 
-Funcionalidades
+# Funcionalidades
 Interatividade: Os usuários podem selecionar um personagem clicando em seus respectivos botões, o que exibe as informações correspondentes.
 Design Responsivo: O layout se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 Estrutura do Projeto
